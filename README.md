@@ -6,7 +6,7 @@
 2. Linear & Logistic Regression
 3. Feature Engineering and Data Visualization
 4. Tree based Models
-5. Deep Learning
+5. Deep Learning (Pytorch will be added soon)
 
 
 ## Folder Structure
